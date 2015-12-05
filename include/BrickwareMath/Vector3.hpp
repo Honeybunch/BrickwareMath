@@ -1,3 +1,12 @@
+/**
+ * \class Vector3
+ * \ingroup BrickwareMath
+ *
+ * \brief A three dimensional vector
+ *
+ * A collection of 3 floats: X, Y and Z
+ */
+
 #ifndef VECTOR3_H
 #define VECTOR3_H
 

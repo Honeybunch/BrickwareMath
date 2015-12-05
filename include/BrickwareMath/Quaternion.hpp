@@ -1,3 +1,13 @@
+/**
+ * \class Quaternion
+ * \ingroup BrickwareMath
+ *
+ * \brief A 4 dimensional representation of rotation
+ *
+ * This quaternion is represented similarly to a Vector4 with X, Y, Z and W.
+ * It is designed to represent rotations.
+ */
+
 #ifndef QUATERNION_H
 #define QUATERNION_H
 

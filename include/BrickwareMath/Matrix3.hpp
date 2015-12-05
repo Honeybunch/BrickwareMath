@@ -1,3 +1,12 @@
+/**
+ * \class Matrix3
+ * \ingroup BrickwareMath
+ *
+ * \brief A 3x3 Matrix
+ *
+ * A collection of 9 floats arranged in a two dimensional grid.
+ */
+
 #ifndef MATRIX3_H
 #define MATRIX3_H
 

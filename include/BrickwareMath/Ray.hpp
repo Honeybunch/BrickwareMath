@@ -1,3 +1,11 @@
+/**
+ * \class Ray
+ * \ingroup BrickwareMath
+ *
+ * \brief A ray described by an origin and a direction
+ *
+ */
+
 #ifndef RAY_H
 #define RAY_H
 

@@ -1,3 +1,12 @@
+/**
+ * \class Bounds
+ * \ingroup BrickwareMath
+ *
+ * \brief A mathematical representation of an Axis Aligned Box
+ *
+ * A collection of a center point and half widths to describe a volume
+ */
+
 #ifndef BOUNDS_H
 #define BOUNDS_H
 

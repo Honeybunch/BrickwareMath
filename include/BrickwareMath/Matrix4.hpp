@@ -1,3 +1,12 @@
+/**
+ * \class Matrix4
+ * \ingroup BrickwareMath
+ *
+ * \brief A 4x4 Matrix
+ *
+ * A collection of 16 floats arranged in a two dimensional grid.
+ */
+
 #ifndef MATRIX4_H
 #define MATRIX4_H
 
@@ -29,7 +38,7 @@ namespace Brickware
 			Matrix4(Vector4 one, Vector4 two, Vector4 three, Vector4 four);
 
 			static Matrix4 getIdentityMatrix();
-			
+
 			static Matrix4 getOrthographicProjection(float left, float right, float bottom, float top, float near, float far);
 			static Matrix4 getPerspectiveProjection(float fov, float aspect, float near, float far);
 

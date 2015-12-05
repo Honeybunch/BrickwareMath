@@ -1,3 +1,12 @@
+/**
+ * \class Vector4
+ * \ingroup BrickwareMath
+ *
+ * \brief A four dimensional vector
+ *
+ * A collection of 4 floats: X, Y, Z and W
+ */
+
 #ifndef VECTOR4_H
 #define VECTOR4_H
 
